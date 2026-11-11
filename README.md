@@ -6,6 +6,17 @@ A full-stack luxury fashion e-commerce website built with React, Node.js, Expres
 
 LUXORA is a MERN-stack boutique store, built as a learning project to practise real full-stack development: a React frontend talking to a REST API backed by MongoDB.
 
+## Screenshots
+
+### Homepage
+![Homepage](docs/screenshots/home_page.png)
+
+### Shop
+![Shop](docs/screenshots/shop_page.png)
+
+### Admin Dashboard
+![Admin dashboard](docs/screenshots/details_page.png)
+
 ## Features
 
 - Responsive homepage with a hero banner, curated collection, promotional banner, benefits strip and newsletter section
