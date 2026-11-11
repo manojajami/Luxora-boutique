@@ -9,13 +9,13 @@ LUXORA is a MERN-stack boutique store, built as a learning project to practise r
 ## Screenshots
 
 ### Homepage
-![Homepage](docs/screenshots/home_page.png)
+![Homepage](docs/screenshots/Home_page.png)
 
 ### Shop
-![Shop](docs/screenshots/shop_page.png)
+![Shop](docs/screenshots/Shop_page.png)
 
 ### Admin Dashboard
-![Admin dashboard](docs/screenshots/details_page.png)
+![Admin dashboard](docs/screenshots/Details_page.png)
 
 ## Features
 
