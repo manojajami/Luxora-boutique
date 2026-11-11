@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" width="100%" height="100%">
+  <defs>
+    <linearGradient id="hr_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141210"/>
+      <stop offset="40%" stop-color="#241f1b"/>
+      <stop offset="70%" stop-color="#3d2d23"/>
+      <stop offset="100%" stop-color="#181310"/>
+    </linearGradient>
+    <radialGradient id="hr_glow" cx="65%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#d8c3a5" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1400" height="800" fill="url(#hr_bg)"/>
+  <rect width="1400" height="800" fill="url(#hr_glow)"/>
+
+  <!-- Minimal Architectural Silhouette in the background -->
+  <g opacity="0.12" stroke="#d8c3a5" stroke-width="1.5" fill="none">
+    <path d="M 850 800 L 850 250 C 850 120, 1050 120, 1050 250 L 1050 800"/>
+    <path d="M 1080 800 L 1080 320 C 1080 220, 1240 220, 1240 320 L 1240 800"/>
+    <line x1="800" y1="700" x2="1350" y2="700"/>
+  </g>
+
+  <!-- Editorial typography watermark -->
+  <text x="1350" y="720" fill="#ffffff" fill-opacity="0.04" font-family="'Cormorant Garamond',Georgia,serif" font-size="280" font-weight="600" text-anchor="end">LUXORA</text>
+</svg>
